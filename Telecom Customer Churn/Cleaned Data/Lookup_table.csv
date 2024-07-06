@@ -1,0 +1,44 @@
+Column_name,Original_Value,Encoded_Value,Imputed_Value,Disc_Value
+ChildrenInHH,No,0.0,,
+ChildrenInHH,Yes,1.0,,
+HandsetRefurbished,No,0.0,,
+HandsetRefurbished,Yes,1.0,,
+BuysViaMailOrder,Yes,1.0,,
+BuysViaMailOrder,No,0.0,,
+OptOutMailings,No,0.0,,
+OptOutMailings,Yes,1.0,,
+NonUSTravel,No,0.0,,
+NonUSTravel,Yes,1.0,,
+HasCreditCard,Yes,1.0,,
+HasCreditCard,No,0.0,,
+NewCellphoneUser,No,0.0,,
+NewCellphoneUser,Yes,1.0,,
+MadeCallToRetentionTeam,Yes,1.0,,
+MadeCallToRetentionTeam,No,0.0,,
+Homeownership,Known,0.0,,
+Homeownership,Unknown,1.0,,
+AgeHH1,null,,36.0,
+AgeHH2,null,,0.0,
+Handsets,null,,1.0,
+HandsetModels,null,,1.0,
+CurrentEquipmentDays,null,,329.0,
+MonthlyRevenue,null,,48.46,
+MonthlyMinutes,null,,366.0,
+TotalRecurringCharge,null,,45.0,
+DirectorAssistedCalls,null,,0.25,
+OverageMinutes,null,,3.0,
+RoamingCalls,null,,0.0,
+PercChangeMinutes,null,,-5.0,
+PercChangeRevenues,null,,-0.3,
+MonthlyRevenue,"(0.00, 33.74]",,,0.0
+MonthlyRevenue,"(33.74, 48.66]",,,1.0
+MonthlyRevenue,"(48.66, 61.73]",,,2.0
+MonthlyRevenue,"(61.73, 123.38]",,,3.0
+MonthlyMinutes,"(0.00, 159.00]",,,0.0
+MonthlyMinutes,"(159.00, 365.00]",,,1.0
+MonthlyMinutes,"(365.00, 615.00]",,,2.0
+MonthlyMinutes,"(615.00, 1552.00]",,,3.0
+TotalRecurringCharge,"(0.00, 30.00]",,,0.0
+TotalRecurringCharge,"(30.00, 45.00]",,,1.0
+TotalRecurringCharge,"(45.00, 60.00]",,,2.0
+TotalRecurringCharge,"(60.00, 105.00]",,,3.0
